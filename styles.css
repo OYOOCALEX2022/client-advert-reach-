@@ -1,6 +1,6 @@
  body {
   
-       background-color:yellow;opacity:2;
+       background-color:#FFFF00;opacity:2;
        text-align:center;
        font-family: Arial, sans-serif;
        font-size: 20px;
@@ -11,7 +11,13 @@
         
               display:inline;
         
-              }
+          
+ h1 {
+  
+    font-family: 'Dancing Script';font-size: 22px;
+  
+    }
+        
   h3 {
    
        font-size: 43px;
